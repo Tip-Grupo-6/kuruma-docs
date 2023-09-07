@@ -1,10 +1,6 @@
 # Kuruma-Docs
 <div  align="center"><img src="assets/kuruma.png" alt="alt text" alt="alt text" height="200" width="200" /></div>
 
-
-**Icon:** 
-https://ibb.co/FY8xz7J
-
 **Descripción:**
 Kuruma es un proyecto que tiene como objetivo convertirse en una web-app para centralizar la administración de un vehículo. Este proyecto se encuentra actualmente en una etapa de concepto (PoC).
 
@@ -21,7 +17,7 @@ Kuruma busca simplificar la gestión y seguimiento de tu vehículo, proporcionan
 
 
 
-# Architecture:
+# Arquitectura:
 <b>Usuario consultando el detalle de su auto</b>
 
 ![title](assets/Architecture.png)
