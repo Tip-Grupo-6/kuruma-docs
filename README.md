@@ -11,7 +11,7 @@ Puedes encontrar una presentación detallada del proyecto en este [enlace](https
 Kuruma busca simplificar la gestión y seguimiento de tu vehículo, proporcionando una plataforma web fácil de usar y centralizada para administrar la información relacionada con tu vehículo.
 
 ## Características Principales
-- **Gestión de Datos**: Registra y administra información sobre tu vehículo, como mantenimientos, reparaciones, etc.
+- **Gestión de Datos**: Registra y administra información sobre tu vehículo, como mantenimientos, reparaciones, asi como tambien fechas de registro de conducir. Verificaciòn tècnica, etc.
 - **Notificaciones**: Recibe recordatorios y alertas relacionadas con el mantenimiento y los plazos importantes de tu vehículo.
 
 
@@ -28,19 +28,50 @@ Kuruma busca simplificar la gestión y seguimiento de tu vehículo, proporcionan
 
 ![title](assets/uml.png)
 
-# Use cases
+# Casos de uso
 
 <b> POC: </b> 
 
 ![title](assets/CU.png)
 <br>
 
-<b> Car Detail </b>
+<b> Detalle de auto </b>
 <br>
-The user can check the car's details, information about the car, and the last maintenance. Also recommendations and advices
+El usuario puede consultar los detalles del auto, información sobre el auto y el último mantenimiento. También recomendaciones y consejos
 </br>
-<b> Car List </b>
+
+
+<b> Listado de autos </b>
 <br>
-The user explore the list of cars and select any of them
+El usuario explora la lista de autos y puede seleccionarlos para ver el detalle de cada uno.
 <br>
+
+<b> Agregar auto </b>
+<br>
+El usuario puede agregar un auto a su lista de autos, ingresando la información del auto y el último mantenimiento.
+<br>
+
+<b> Editar auto </b>
+<br>
+El usuario puede editar la información de un auto, como el nombre, modelo, año, etc.
+<br>
+
+<b> Eliminar auto </b>
+<br>
+El usuario puede eliminar un auto de su lista de autos.
+<br>
+
+<b> Agregar mantenimiento/item </b>
+<br>
+El usuario puede agregar un mantenimiento a un auto, ingresando la información del mantenimiento.
+<br>
+
+<b> Editar mantenimiento/item </b>__
+<br>
+El usuario puede editar la información de un mantenimiento, como la fecha, kilometraje, etc.
+<br>
+    
+<b> Eliminar mantenimiento/item </b>
+<br>
+El usuario puede eliminar un mantenimiento de un auto.
 
