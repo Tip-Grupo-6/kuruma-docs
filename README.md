@@ -56,11 +56,6 @@ El usuario puede agregar un auto a su lista de autos, ingresando la información
 El usuario puede editar la información de un auto, como el nombre, modelo, año, etc.
 <br>
 
-<b> Eliminar auto </b>
-<br>
-El usuario puede eliminar un auto de su lista de autos.
-<br>
-
 <b> Agregar mantenimiento/item </b>
 <br>
 El usuario puede agregar un mantenimiento a un auto, ingresando la información del mantenimiento.
