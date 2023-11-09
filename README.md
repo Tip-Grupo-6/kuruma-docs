@@ -33,6 +33,8 @@ Kuruma busca simplificar la gestión y seguimiento de tu vehículo, proporcionan
 <b> POC: </b> 
 
 ![title](assets/CU.png)
+
+# Auto 
 <br>
 
 <b> Detalle de auto </b>
@@ -56,6 +58,23 @@ El usuario puede agregar un auto a su lista de autos, ingresando la información
 El usuario puede editar la información de un auto, como el nombre, modelo, año, etc.
 <br>
 
+<<<<<<< Updated upstream
+=======
+<b> Eliminar auto </b>
+<br>
+El usuario puede eliminar un auto de su lista de autos.
+<br>
+
+<b> Ver estadísticas del auto </b>
+<br>
+
+El usuario puede ver las estadísticas de un auto, como el kilometraje, el estado de sus componentes, etc.
+
+<br>
+
+# Mantenimientos
+
+>>>>>>> Stashed changes
 <b> Agregar mantenimiento/item </b>
 <br>
 El usuario puede agregar un mantenimiento a un auto, ingresando la información del mantenimiento.
@@ -69,4 +88,61 @@ El usuario puede editar la información de un mantenimiento, como la fecha, kilo
 <b> Eliminar mantenimiento/item </b>
 <br>
 El usuario puede eliminar un mantenimiento de un auto.
+
+# Notificaciones
+
+<br>
+
+<b> Agregar notificación </b>
+<br>
+
+El usuario puede agregar una notificación a un auto, ingresando la información de la notificación.
+
+<br>
+
+<b> Editar notificación </b>
+<br>
+
+El usuario puede editar la información de una notificación, como el tipo de item, la frecuencia, etc.
+
+
+<br>
+
+<b> Eliminar notificación </b>
+
+<br>
+
+El usuario puede eliminar una notificación de un auto.
+
+<br>
+
+<b> Ver notificaciones </b>
+
+<br>
+
+El usuario puede ver las notificaciones de un auto.
+
+<br>
+
+
+# Usuario
+
+<br>
+
+<b> Iniciar sesión </b>
+
+<br>
+
+El usuario puede iniciar sesión en la aplicación.
+
+<br>
+
+<b> Registrarse </b>
+
+<br>
+
+El usuario puede registrarse en la aplicación.
+
+<br>
+
 
