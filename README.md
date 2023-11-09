@@ -16,7 +16,6 @@ Kuruma busca simplificar la gestión y seguimiento de tu vehículo, proporcionan
 
 
 
-
 # Arquitectura:
 <b>Usuario consultando el detalle de su auto</b>
 
@@ -42,7 +41,6 @@ Kuruma busca simplificar la gestión y seguimiento de tu vehículo, proporcionan
 El usuario puede consultar los detalles del auto, información sobre el auto y el último mantenimiento. También recomendaciones y consejos
 </br>
 
-
 <b> Listado de autos </b>
 <br>
 El usuario explora la lista de autos y puede seleccionarlos para ver el detalle de cada uno.
@@ -58,8 +56,6 @@ El usuario puede agregar un auto a su lista de autos, ingresando la información
 El usuario puede editar la información de un auto, como el nombre, modelo, año, etc.
 <br>
 
-<<<<<<< Updated upstream
-=======
 <b> Eliminar auto </b>
 <br>
 El usuario puede eliminar un auto de su lista de autos.
@@ -74,13 +70,12 @@ El usuario puede ver las estadísticas de un auto, como el kilometraje, el estad
 
 # Mantenimientos
 
->>>>>>> Stashed changes
 <b> Agregar mantenimiento/item </b>
 <br>
 El usuario puede agregar un mantenimiento a un auto, ingresando la información del mantenimiento.
 <br>
 
-<b> Editar mantenimiento/item </b>__
+<b> Editar mantenimiento/item </b>
 <br>
 El usuario puede editar la información de un mantenimiento, como la fecha, kilometraje, etc.
 <br>
