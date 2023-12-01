@@ -42,11 +42,6 @@ Kuruma busca simplificar la gestión y seguimiento de tu vehículo, proporcionan
 El usuario puede consultar los detalles del auto, información sobre el auto y el último mantenimiento. También recomendaciones y consejos
 </br>
 
-<ins><b> Listado de autos </b></ins>
-<br>
-El usuario explora la lista de autos y puede seleccionarlos para ver el detalle de cada uno.
-</br>
-
 <ins><b> Agregar auto </b></ins>
 <br>
 El usuario puede agregar un auto a su lista de autos, ingresando la información del auto y el último mantenimiento.
@@ -68,7 +63,7 @@ El usuario puede ver las estadísticas de un auto, como el kilometraje, el estad
 
 <br>
 
-# Mantenimientos
+# Mantenimiento de auto
 
 <ins><b> Agregar mantenimiento/item </b></ins>
 <br>
@@ -119,6 +114,23 @@ El usuario puede iniciar sesión en la aplicación.
 <br>
 El usuario puede registrarse en la aplicación.
 
+<br>
+
+# Mantenimiento de Usuario
+
+<ins><b> Agregar mantenimiento/item </b></ins>
+<br>
+El usuario puede agregar un mantenimiento a un usuario, ingresando la información del mantenimiento.
+</br>
+
+<ins><b> Editar mantenimiento/item </b></ins>
+<br>
+El usuario puede editar la información de un mantenimiento, como la fecha, etc.
+</br>
+
+<ins><b> Eliminar mantenimiento/item </b></ins>
+<br>
+El usuario puede eliminar un mantenimiento.
 <br>
 
 
