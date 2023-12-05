@@ -10,6 +10,9 @@ Puedes encontrar una presentación detallada del POC del proyecto en este [enlac
 **Presentación FINAL:**
 Puedes encontrar una presentación detallada final del proyecto en este [enlace](https://docs.google.com/presentation/d/1Y54NWYL_bB6YduTkddS0vntrWfCbtWHM_44Y_yeHO0g/edit?usp=sharing).
 
+**Video DEMO FINAL:**
+Puedes encontrar un video detallado del final del proyecto en este [enlace](https://www.youtube.com/watch?v=chChjBd0uqg).
+
 ## Acerca de Kuruma
 Kuruma busca simplificar la gestión y seguimiento de tu vehículo, proporcionando una plataforma web fácil de usar y centralizada para administrar la información relacionada con tu vehículo.
 
