@@ -4,8 +4,12 @@
 **Descripción:**
 Kuruma es un proyecto que tiene como objetivo convertirse en una web-app para centralizar la administración de un vehículo. Este proyecto se encuentra actualmente en una etapa de concepto (PoC).
 
-**Presentación:**
-Puedes encontrar una presentación detallada del proyecto en este [enlace](https://docs.google.com/presentation/d/1PSSQ1QTzhdLFFvP2EvH3GRkeTXDN7T419HXD_mnkW1M/edit?usp=sharing).
+**Presentación POC:**
+Puedes encontrar una presentación detallada del POC del proyecto en este [enlace](https://docs.google.com/presentation/d/1PSSQ1QTzhdLFFvP2EvH3GRkeTXDN7T419HXD_mnkW1M/edit?usp=sharing).
+
+**Presentación FINAL:**
+Puedes encontrar una presentación detallada final del proyecto en este [enlace](https://docs.google.com/presentation/d/1Y54NWYL_bB6YduTkddS0vntrWfCbtWHM_44Y_yeHO0g/edit?usp=sharing).
+
 ## Acerca de Kuruma
 Kuruma busca simplificar la gestión y seguimiento de tu vehículo, proporcionando una plataforma web fácil de usar y centralizada para administrar la información relacionada con tu vehículo.
 
