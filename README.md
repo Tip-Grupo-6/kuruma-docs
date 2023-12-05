@@ -140,4 +140,9 @@ El usuario puede editar la información de un mantenimiento, como la fecha, etc.
 El usuario puede eliminar un mantenimiento.
 <br>
 
+# Trackeo de kilometraje
 
+<ins><b> Realizar viaje </b></ins>
+<br>
+El usuario puede realizar un viaje, iniciando el trackeo de kilometraje y finalizandolo una vez que llega a su destino.
+</br>
